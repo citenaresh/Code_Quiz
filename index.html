@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Quiz Challenge</title>
+    <link rel="stylesheet" type="text/css" href="Assets/style.css">
+</head>
+<body>
+    <div class="container">
+
+        <div id="startpage">
+            <h2>This quiz-game is for testing the knowledge of</h2>
+            <h2>various concepts regarding web design </h2>
+        <button id="btnStart">Start The Quiz</button>
+        <button id="btnHighscore" onclick="showHighscore()">High Scores</button>
+        </div>
+
+        <div id="quiz">
+            <div id="timer">Time left: </div>
+                <div id="questions"><p>Placeholder for Questions</p></div>
+                    <button id="a" onclick="checkTheAnswer('a')">A</button>
+                    <button id="b" onclick="checkTheAnswer('b')">B</button>
+                    <button id="c" onclick="checkTheAnswer('c')">C</button>
+                    <button id="d" onclick="checkTheAnswer('d')">D</button>
+                <div id="result"></div>
+        </div>
+        <div id="gameover">
+
+            <div id="finalScore"></div>
+            <input type="text" size = "40" placeholder="Enter you Names for high score" name="highName" id="highBox"/>
+            <button id="btnSubmitScore">Submit Score</button>
+        </div>
+        <div id=highscoreContainer>
+        <div id="high-score-page">
+            <div id="highscore-header">
+                <h3>User Names</h3>
+                <h3>Score</h3>
+            </div>
+            <div id = "highscore-name"></div>
+            <div id = "highscore-score"></div>
+        </div>
+        <div id="endGame">
+            <button id="playAgain" onclick="replayQuiz()">Play Again</button>
+            <button id="btnclearScore" onclick="clearScore()">Clear Highscores</button>
+        </div>
+    </div>
+    </div>
+    <script src="Assets/script.js"></script>
+</body>
+</html>
