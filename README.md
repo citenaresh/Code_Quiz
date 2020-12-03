@@ -39,13 +39,13 @@ for installing, You can download the zipped file, or You can clone from Github.
     * This button will start the quiz with question and multiple choice answers
     * After the user "clicked" on a choice, a message is alerted showing the result of the user (meaning the answer is correct or incorrect), and the program goes to next question
 
-![button](Assets/Screenshot0.png)
+![button](Assets/Screenshot_0.png)
 
 
 * A High_Score button 
     * This button will show the high score gained by the user ( by utilising the localstorage)
 
-![button](Assets/Screenshot0.png)
+![button](Assets/Screenshot_0.png)
 
 ### The Psuedo Code for the Project: 
 * The user is presented by a page with two buttons, one for starting the quiz and the other one for the high score
