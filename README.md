@@ -14,13 +14,13 @@ The Demo for the Quiz game:
 
 The validation has been done for the three files and the screenshots are:
 ### CSS validation
-![CSS validation](assets/Code_Validator/CSS_Validator.png)
+![CSS validation](assets/Code_Validators/CSS_Validator.png)
 
 ### HTML validation
-![CSS validation](assets/Code_Validator/HTML_Validator.png)
+![CSS validation](assets/Code_Validators/HTML_Validator.png)
 
 ### Javascript validation
-![CSS validation](assets/Code_Validator/JS_Validator.png)
+![CSS validation](assets/Code_Validators/JS_Validator.png)
 
 ### what you need
 
