@@ -6,8 +6,8 @@ This is a web app focussing on Javascript (local storage) to create a quiz game 
 
 This has been deployed to GitHub. To get this web app ( or project) up and running, one can follow the link(deployment).one can also download the file to use as template.
  
-* [GitHub Repository](https://github.com/citenaresh/Password_Creator/): https://github.com/citenaresh/Password_Creator/
-* [Deployed GitHub IO](https://citenaresh.github.io/Password_Creator/index.html): https://citenaresh.github.io/Password_Creator/index.html
+* [GitHub Repository](https://github.com/citenaresh/Code-Quiz/): https://github.com/citenaresh/Code_Quiz/
+* [Deployed GitHub IO](https://citenaresh.github.io/Code_Quiz/index.html): https://citenaresh.github.io/Code_Quiz/index.html
 
 The Demo for the Quiz game:
 ![Quiz-Game Demo](assets/QuizGame.gif)
