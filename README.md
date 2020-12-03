@@ -14,13 +14,13 @@ The Demo for the Quiz game:
 
 The validation has been done for the three files and the screenshots are:
 ### CSS validation
-![CSS validation](assets/Code_Validator/CSS_Validator.png)
+![CSS validation](Assets/Code_Validator/CSS_Validator.png)
 
 ### HTML validation
-![CSS validation](assets/Code_Validator/HTML_Validator.png)
+![CSS validation](Assets/Code_Validator/HTML_Validator.png)
 
 ### Javascript validation
-![CSS validation](assets/Code_Validator/JS_Validator.png)
+![CSS validation](Assets/Code_Validator/JS_Validator.png)
 
 ### what you need
 
@@ -39,13 +39,13 @@ for installing, You can download the zipped file, or You can clone from Github.
     * This button will start the quiz with question and multiple choice answers
     * After the user "clicked" on a choice, a message is alerted showing the result of the user (meaning the answer is correct or incorrect), and the program goes to next question
 
-![button](assets/Screenshot0.png)
+![button](Assets/Screenshot0.png)
 
 
 * A High_Score button 
     * This button will show the high score gained by the user ( by utilising the localstorage)
 
-![button](assets/Screenshot0.png)
+![button](Assets/Screenshot0.png)
 
 ### The Psuedo Code for the Project: 
 * The user is presented by a page with two buttons, one for starting the quiz and the other one for the high score
