@@ -10,7 +10,7 @@ This has been deployed to GitHub. To get this web app ( or project) up and runni
 * [Deployed GitHub IO](https://citenaresh.github.io/Code_Quiz/index.html): https://citenaresh.github.io/Code_Quiz/index.html
 
 The Demo for the Quiz game:
-![Quiz-Game Demo](assets/QuizGame.gif)
+![Quiz-Game Demo](Assets/QuizGame.gif)
 
 The validation has been done for the three files and the screenshots are:
 ### CSS validation
